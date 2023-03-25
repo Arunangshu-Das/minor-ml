@@ -1,0 +1,16 @@
+beautifulsoup4
+Flask
+Flask-SQLAlchemy
+h5py
+pandas
+pandocfilters
+pickleshare
+Pillow
+requests
+requests-oauthlib
+scikit-learn
+scipy
+seaborn
+webencodings
+websocket-client
+websockets
