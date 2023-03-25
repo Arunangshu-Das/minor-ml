@@ -14,3 +14,4 @@ seaborn
 webencodings
 websocket-client
 websockets
+gunicorn
