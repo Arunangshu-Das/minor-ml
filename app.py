@@ -55,6 +55,3 @@ def finding():
         return model.predict(pd.DataFrame(df.iloc[idx]).T)[0]
     except:
         return "Error"
-
-if __name__=='__main__':
-    app.run()
