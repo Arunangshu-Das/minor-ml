@@ -15,3 +15,4 @@ webencodings
 websocket-client
 websockets
 gunicorn
+Flask-Cors
