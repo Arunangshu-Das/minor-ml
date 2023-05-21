@@ -4,8 +4,8 @@ This is an API for disease prediction based on symptoms. It uses a machine learn
 
 ## Installation
 
-1. Clone the repository: `git clone <repository-url>`
-2. Navigate to the project directory: `cd <project-directory>`
+1. Clone the repository: `git clone https://github.com/Arunangshu-Das/minor-ml.git`
+2. Navigate to the project directory: `cd minor-ml`
 3. Install the dependencies: `pip install -r requirements.txt`
 
 ## Usage
